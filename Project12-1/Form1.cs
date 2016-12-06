@@ -22,6 +22,7 @@ namespace Project12_1
             InitializeComponent();
         }
 
+
         private string valueString;
         private decimal valueDecimal;
         
